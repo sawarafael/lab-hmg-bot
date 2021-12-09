@@ -1,0 +1,16 @@
+{
+  "name": "lab---discord-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "nodemon": "nodemon index",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^13.3.1",
+    "nodemon": "^2.0.15"
+  }
+}
